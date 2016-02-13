@@ -4,9 +4,7 @@
   "authors": [
     "bfazlani"
   ],
-  "tags": [
-    ""
-  ],
+  "tags": ["nuget", "dotnet", "coreclr" ,"project.json", "ci", "cd"],
   "projectUrl": "",
   "licenseUrl": "",
   "compilationOptions": {
