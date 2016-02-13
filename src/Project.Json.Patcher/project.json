@@ -1,10 +1,17 @@
 ﻿{
-  "version": "5.5.3",
+  "version": "1.0.0-*",
   "description": "Project.Json.Patcher Console Application",
   "authors": [
     "bfazlani"
   ],
-  "tags": ["nuget", "dotnet", "coreclr" ,"project.json", "ci", "cd"],
+  "tags": [
+    "nuget",
+    "dotnet",
+    "coreclr",
+    "project.json",
+    "ci",
+    "cd"
+  ],
   "projectUrl": "",
   "licenseUrl": "",
   "compilationOptions": {

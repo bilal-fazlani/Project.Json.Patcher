@@ -7,7 +7,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3271F59F-AAB
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E600F4D-216B-46AD-8085-D4766F0E8792}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		build.bat = build.bat
+		deploy.bat = deploy.bat
 		global.json = global.json
+		LICENSE = LICENSE
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Project.Json.Patcher", "src\Project.Json.Patcher\Project.Json.Patcher.xproj", "{4C33C1EC-ACC9-42B4-B918-A7EB2A9FD1CE}"
