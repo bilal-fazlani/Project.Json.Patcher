@@ -13,3 +13,5 @@ cd src\Project.Json.Patcher
 call Project.Json.Patcher patch -v %APPVEYOR_BUILD_VERSION%
 
 call dnu pack --configuration release --out ..\..\artifacts
+
+cd ..\..\
